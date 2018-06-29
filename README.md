@@ -8,4 +8,6 @@ modern portfolio theory. We train two neural models to generate the market views
 
 ## Dataset Overview
 
-Stay tuned...
+The dataset comprises over 8 years of price data, trading volume data, and market capitalization data for the 5-stocks-portfolio experimented in the abovementioned paper. With **./mkt_cap** to calculate portfolio weights and **./price** data, one can easily replicate the numbers of **vw_pfl.txt**.
+
+We are not authorized to publish sentiment data from **Psychsignal**, however, users could apply their own source of sentiment information.  
