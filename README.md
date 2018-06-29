@@ -1,4 +1,4 @@
-# intelligent Bayesian Asset Allocation
+# Intelligent Bayesian Asset Allocation
 
 This repository provides a public available dataset to researchers and practitioners. They could experiment and benchmark their asset allocation models on it with/without sentiment information, or even use their own source of information. Please kindly cite the following paper if you find the dataset useful,  
 
